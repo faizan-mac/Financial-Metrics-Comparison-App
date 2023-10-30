@@ -2,6 +2,7 @@
 Fetches and sorts the requested financial metrics of public companies.
 
 # How to Run
+* Clone or download the repo and extract it.
 * Populate "config.cfg" with Redis database info and FinancialModelingPrep API key
 * Run "app.py"
 
