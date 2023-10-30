@@ -22,3 +22,6 @@ Fetches and sorts the requested financial metrics of public companies.
 
 * input "2" to view the trending stock
 * input "3" to exit
+* 
+# Example
+![screenshot](https://raw.githubusercontent.com/faizan-mac/Financial-Metrics-Comparison-App/main/example.PNG)
